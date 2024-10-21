@@ -24,7 +24,7 @@ rpm-ostree install \
 
 ### add 1password
 chmod +x /tmp/1password.sh && \
-  ONEPASSWORD_RELEASE_CHANNEL=beta \
+  ONEPASSWORD_RELEASE_CHANNEL=stable \
   GID_ONEPASSWORD=1500 \
   GID_ONEPASSWORDCLI=1600 \
   /tmp/1password.sh
