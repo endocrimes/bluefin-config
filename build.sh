@@ -28,6 +28,3 @@ chmod +x /tmp/1password.sh && \
   GID_ONEPASSWORD=1500 \
   GID_ONEPASSWORDCLI=1600 \
   /tmp/1password.sh
-
-#### Example for enabling a System Unit File
-
