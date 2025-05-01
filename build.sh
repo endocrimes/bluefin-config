@@ -20,7 +20,9 @@ rpm-ostree install \
   kitty \
   clang \
   ninja-build \
-  vim-X11
+  vim-X11 \
+  firefox \
+  gstreamer1-plugin-openh264
 
 ### add 1password
 chmod +x /tmp/1password.sh && \
