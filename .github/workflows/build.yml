@@ -25,6 +25,7 @@ jobs:
         suffix:
           - '-dx'
           - '-dx-nvidia-open'
+          - '-dx-nvidia'
     name: Build and push image
     runs-on: ubuntu-24.04
 
